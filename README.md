@@ -8,7 +8,7 @@ Lobiのpython版です
 
 ## 必要なソフトなど
 
-https://www.python.org/downloads/　の2.71.4をインストールしてください
+https://www.python.org/downloads の2.71.4をインストールしてください
 インストールが終わったら、
        pip install requests 
 でRequestsモジュールをインストールしてください
